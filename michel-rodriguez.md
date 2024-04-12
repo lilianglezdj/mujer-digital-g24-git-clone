@@ -13,9 +13,18 @@
 
 **_Universidad._**
 
->> ESCA Tepepan Lic. Relaciones Comerciales <sub>2022-</sub>
+>> ESCA Tepepan Lic. Relaciones Comerciales <sub>2022-now</sub>
 
-:speech_balloon:
+**_Ingles_**
+
+>> Cenlex Santo Tomas <sub>2023-now</sub>
+
+**_Programación_**
+
+>> Junior Archivment/IBM <sub>2024</sub>
 
 <h2><table><tr><td> Lenguajes </td></tr></table></h2>
 
+:speech_balloon:
+**_Español_**
+**_Ingles A2_**
