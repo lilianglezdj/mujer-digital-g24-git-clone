@@ -1,15 +1,15 @@
 # Hola, soy Gabriela Márquez
 ## Mis datos
 
- Edad: 29 años
- Fecha de nacimiento: 18 de Octubre de 1994
- Lugar de nacimiento: Oaxaca
- Gmail: libra.gaby94@gmail.com
- Lugar actual: Ciudad de México
+ Edad: 29 años  
+ Fecha de nacimiento: 18 de Octubre de 1994  
+ Lugar de nacimiento: Oaxaca  
+ Gmail: libra.gaby94@gmail.com  
+ Lugar actual: Ciudad de México  
 
  ## Sobre mi
 
- Me gusta salir de paseo con mi familia.
+ Me gusta salir de paseo con mi familia.  
  Actualmente estoy tomando un curso sobre desarrollo de páginas Web, la parte más emocionante es que estoy aprendiendo varios lenguajes de programación.
 
 ## Habilidades
@@ -28,8 +28,10 @@
 - Decoración de piezas de cerámica
 
 ## Formación
+(https://www.shutterstock.com/image-vector/businesswoman-work-on-laptop-260nw-465026000.jpg)
+
 - Preparatoria concluida
 - Técnico en informática
-(https://www.shutterstock.com/image-vector/businesswoman-work-on-laptop-260nw-465026000.jpg)
+
 
 
