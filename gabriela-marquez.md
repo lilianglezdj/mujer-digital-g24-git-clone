@@ -1,13 +1,35 @@
 # Hola, soy Gabriela Márquez
+## Mis datos
 
-*Técnico en informática
+ Edad: 29 años
+ Fecha de nacimiento: 18 de Octubre de 1994
+ Lugar de nacimiento: Oaxaca
+ Gmail: libra.gaby94@gmail.com
+ Lugar actual: Ciudad de México
 
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fmx%2Fphotos%2Fimagenes-bonitas.html&psig=AOvVaw19rE3ajO9BaUxIA7qrwls6&ust=1712965298853000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC-qOWqu4UDFQAAAAAdAAAAABAE)
+ ## Sobre mi
 
-## Sobre mi
-Tengo 29 años soy originaria de Oaxaca, actualmente radico en la Cdmx.
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fjoselilloortiz%2Fimagenes-bonitas%2F&psig=AOvVaw19rE3ajO9BaUxIA7qrwls6&ust=1712965298853000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC-qOWqu4UDFQAAAAAdAAAAABAN)
+ Me gusta salir de paseo con mi familia.
+ Actualmente estoy tomando un curso sobre desarrollo de páginas Web, la parte más emocionante es que estoy aprendiendo varios lenguajes de programación.
 
-## Experiencia 
-Tengo experiencia en atención al cliente
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fdibujo-mujer-trabajadora&psig=AOvVaw0iv4Lf8fHovjQe4JrCYgTz&ust=1712966700031000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNC86vavu4UDFQAAAAAdAAAAABAE)
+## Habilidades
+(https://c8.alamy.com/compes/prmj9c/grupo-de-mujeres-en-un-sofa-bebiendo-cafe-prmj9c.jpg)
+
+- Manejo del equipo de cómputo
+- Puntualidad
+- Trabajo en equipo
+- Buena comunicación
+
+## Experiencia
+(https://png.pngtree.com/element_our/20200703/ourlarge/pngtree-cartoon-customer-service-professional-woman-png-free-material-image_2300351.jpg)
+
+- Atención al cliente 
+- Cajera en pequeñas empresas
+- Decoración de piezas de cerámica
+
+## Formación
+- Preparatoria concluida
+- Técnico en informática
+(https://www.shutterstock.com/image-vector/businesswoman-work-on-laptop-260nw-465026000.jpg)
+
+
